@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BQAdditions">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/BQAdditions.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

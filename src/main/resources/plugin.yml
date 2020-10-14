@@ -1,0 +1,5 @@
+name: BQMoonStage
+version: ${project.version}
+main: me.domirusz24.bq.bqmoonstage.bqmoonstage.BQMoonStage
+authors: [DomiRusz24]
+depend: [BetonQuest]
